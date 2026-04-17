@@ -1,14 +1,14 @@
 # Blocklist for Family Link
 # Roughly based on https://gist.github.com/rifting/f6deeb89e1fae4b2eaa127a33dfe5a98
 
-||dns.google
-||history.google.com
-||kidsmanagement-pa.googleapis.com
-/*mtalk.google.com/
-firebaselogging-pa.googleapis.com
-firebaselogging.googleapis.com
-/*mtalk*.google.com/
-/*android.apis.google.com/
-/*device-provisioning.googleapis.com/
-firebaseinstallations.googleapis.com
-kidsmanagement-pa.clients6.google.com
+||dns.google^
+||history.google.com^
+||kidsmanagement-pa.googleapis.com^
+|*mtalk.google.com^
+||firebaselogging-pa.googleapis.com^
+||firebaselogging.googleapis.com^
+|*mtalk*.google.com^
+|*android.apis.google.com^
+|*device-provisioning.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||kidsmanagement-pa.clients6.google.com^
